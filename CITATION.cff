@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "AML MRD — Flow Cytometry Resources"
+message: "Merci de citer ce dépôt si vous l'utilisez."
+type: dataset
+authors:
+  - family-names: "MIMOUN"
+    given-names: "Aguirre"
+repository-code: "https://github.com/FlowFun/AML-ressources"
+license: "MIT"
+
+preferred-citation:
+  type: dataset
+  title: "AML MRD — Flow Cytometry Resources"
+  authors:
+    - family-names: "MIMOUN"
+      given-names: "Aguirre"
+  year: 2025
+  url: "https://github.com/FlowFun/AML-ressources"
