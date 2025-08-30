@@ -60,7 +60,11 @@
   [DOI:10.1038/s43856-024-00700-x](https://doi.org/10.1038/s43856-024-00700-x)
 
 ## Jeux de données publics
-- *(ex. dépôts FCS, jeux MRD annotés, benchmarks)*
+- **FlowCAP / DREAM AML dataset (FR-FCM-ZZYA)** — Jeu de données de cytométrie en flux (FCS) utilisé dans les challenges **FlowCAP** et **DREAM** pour l’évaluation comparative des méthodes d’analyse automatisée.  
+  Contient plusieurs centaines d’échantillons (AML vs non-AML, diagnostics de leucémie aiguë myéloïde et témoins), avec panels multicolores standards.  
+  Sert de **benchmark de référence** pour tester et comparer les algorithmes de gating, clustering et classification appliqués à la MRD en LAM.  
+  *Référence* : Aghaeepour N., Finak G., FlowCAP Consortium, DREAM Consortium, et al. *Critical Assessment of Automated Flow Cytometry Data Analysis Techniques*. **Nature Methods**, 10(3):228-38, 2013.  
+  [DOI:10.1038/nmeth.2365](https://doi.org/10.1038/nmeth.2365) · [FlowRepository FR-FCM-ZZYA](http://flowrepository.org/id/FR-FCM-ZZYA)
 
 ## Tutoriels & notebooks
 - *(guides pas-à-pas, cours, ateliers)*
