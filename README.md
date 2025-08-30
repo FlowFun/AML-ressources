@@ -17,9 +17,6 @@
 - [Comment contribuer](#comment-contribuer)
 - [Licence & citation](#licence--citation)
 
-> **Format des entrées** :  
-> `- **Nom** — description courte. *Langage/Type* · *Catégorie*. [Lien principal] · [Doc] · [Article] · [Données]`
-
 ---
 
 ## Qualité & prétraitement
