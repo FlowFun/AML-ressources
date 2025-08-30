@@ -3,7 +3,8 @@
 > Ressources sélectionnées pour analyser la **maladie résiduelle mesurable (MRD)** dans les **leucémies aiguës myéloïdes (LAM)** par **cytométrie en flux** (CMF) : algorithmes et jeu de données
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#comment-contribuer)
-[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](./LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 
 ## Table des matières
 - [Qualité & prétraitement](#qualité--prétraitement)
