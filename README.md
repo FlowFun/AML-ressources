@@ -76,11 +76,8 @@
 ---
 
 ## Comment contribuer
-Les contributions sont bienvenues !  
-1. Consultez [CONTRIBUTING.md](./CONTRIBUTING.md).  
-2. Ouvrez une *issue* pour suggérer un lien ou une section.  
-3. Proposez une *pull request* (format d’entrée ci-dessus, liens vérifiés).  
+Les contributions ne sont pas encore possible, mais ça va venir...
 
 ## Licence & citation
-- Contenu : [CC BY 4.0](./LICENSE).  
+- Contenu : [MIT License](./LICENSE).
 - Pour citer ce dépôt, utilisez le fichier [`CITATION.cff`](./CITATION.cff).
