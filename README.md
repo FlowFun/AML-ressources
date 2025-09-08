@@ -50,7 +50,7 @@
 - **Computational MRD validation (HOVON-SAKK-132)** — *Computational measurable residual disease assessment in acute myeloid leukemia: A retrospective validation in the HOVON-SAKK-132 trial*.  
   *Leukemia, Mocking T.R., Haaksma L.H., Reuvekamp T., Kelder A., Scholten W.J., Ngai L.L., Breems D.A., Fischer T., Gjertsen B.T., Griškevičius L., Juliusson G., Maertens J.A., Manz M.G., Pabst T., Passweg J.R., Porkka K., Valk P.J.M., Gradowska P., Löwenberg B., Bachas C., 2025*.  
   [DOI:10.1038/s41375-025-02747-8](https://doi.org/10.1038/s41375-025-02747-8)
-  💡 *Une évaluation rétrospective de l'algorithme GMMc de Mocking et al. sur la cohorte HOVON-SAKK-132, qui montre une meilleure prédiction de la rechute que la méthode manuelle. À noter : seuil "custom" dont la fixation entraîne peut-être un risque d’overfitting.*
+  >*Une évaluation rétrospective de l'algorithme GMMc de Mocking et al. sur la cohorte HOVON-SAKK-132, qui montre une meilleure prédiction de la rechute que la méthode manuelle. À noter : seuil "custom" dont la fixation entraîne peut-être un risque d’overfitting.*
 
 
 ## Outils & pipelines
