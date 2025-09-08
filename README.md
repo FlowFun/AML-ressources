@@ -8,7 +8,6 @@
 
 ## Table des matières
 - [Qualité & prétraitement](#qualité--prétraitement)
-- [Gating (manuel & automatique)](#gating-manuel--automatique)
 - [Réduction de dimension et visualisation](#réduction-de-dimension-et-visualisation)
 - [Outils & pipelines](#outils--pipelines)
 - [Jeux de données publics](#jeux-de-données-publics)
@@ -24,9 +23,6 @@
 - **CytoNorm 2.0** — *A Flexible Normalization Framework for Cytometry Data without Requiring Dedicated Controls*.  
   *Cytometry Part A, Quintelier K.L.A., Willemsen M., Bosteels V., Aerts J.G.J.V., Saeys Y., Van Gassen S., (s.d.)*.  
   [DOI:10.1002/cyto.a.24910](https://doi.org/10.1002/cyto.a.24910)
-
-## Gating (manuel & automatique)
-- *(ex. stratégies AML MRD, openCyto, règles, modèles appris)*
 
 ## Réduction de dimension et visualisation
 ### Transport optimal
