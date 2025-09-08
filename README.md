@@ -8,7 +8,7 @@
 
 ## Table des matières
 - [Qualité & prétraitement](#qualité--prétraitement)
-- [Réduction de dimension et visualisation](#réduction-de-dimension-et-visualisation)
+- [Méthodes computationnelles de MRD LAM](#méthodes-computationnelles-de-mrd-lam)
 - [Outils & pipelines](#outils--pipelines)
 - [Jeux de données publics](#jeux-de-données-publics)
 - [Tutoriels & notebooks](#tutoriels--notebooks)
@@ -24,7 +24,7 @@
   *Cytometry Part A, Quintelier K.L.A., Willemsen M., Bosteels V., Aerts J.G.J.V., Saeys Y., Van Gassen S., (s.d.)*.  
   [DOI:10.1002/cyto.a.24910](https://doi.org/10.1002/cyto.a.24910)
 
-## Réduction de dimension et visualisation
+## Méthodes computationnelles de MRD LAM
 ### Transport optimal
 - **Transport optimal** — *Low Dimensional Representation of Multi‐Patient Flow Cytometry Datasets Using Optimal Transport for Measurable Residual Disease Detection in Leukemia*.  
   *Cytometry Part A, Gachon E., Bigot J., Cazelles E., et al., 2025*.  
