@@ -1,4 +1,4 @@
-# AML MRD — Flow Cytometry Resources
+# MRD LAM et algorithmes: ressources
 
 > Ressources sélectionnées pour analyser la **maladie résiduelle mesurable (MRD)** dans les **leucémies aiguës myéloïdes (LAM)** par **cytométrie en flux** (CMF) : algorithmes et jeu de données
 
