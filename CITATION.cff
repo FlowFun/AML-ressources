@@ -5,6 +5,7 @@ type: dataset
 authors:
   - family-names: "MIMOUN"
     given-names: "Aguirre"
+    orcid: "https://orcid.org/0009-0002-7848-9056"
 repository-code: "https://github.com/FlowFun/AML-ressources"
 license: "MIT"
 
@@ -14,5 +15,6 @@ preferred-citation:
   authors:
     - family-names: "MIMOUN"
       given-names: "Aguirre"
+      orcid: "https://orcid.org/0009-0002-7848-9056"
   year: 2025
   url: "https://github.com/FlowFun/AML-ressources"
