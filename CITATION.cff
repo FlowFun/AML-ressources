@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "AML MRD — Flow Cytometry Resources"
+title: "MRD LAM et algorithmes: ressources"
 message: "Merci de citer ce dépôt si vous l'utilisez."
 type: dataset
 authors:
@@ -11,7 +11,7 @@ license: "MIT"
 
 preferred-citation:
   type: dataset
-  title: "AML MRD — Flow Cytometry Resources"
+  title: "MRD LAM et algorithmes: ressources"
   authors:
     - family-names: "MIMOUN"
       given-names: "Aguirre"
