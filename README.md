@@ -66,6 +66,23 @@
   *Référence* : Aghaeepour N., Finak G., FlowCAP Consortium, DREAM Consortium, et al. *Critical Assessment of Automated Flow Cytometry Data Analysis Techniques*. **Nature Methods**, 10(3):228-38, 2013.  
   [DOI:10.1038/nmeth.2365](https://doi.org/10.1038/nmeth.2365) · [FlowRepository FR-FCM-ZZYA](http://flowrepository.org/id/FR-FCM-ZZYA)
 
+- **BLAST110 & LAIP29 (Mocking et al.) — Datasets annotés AML pour MRD computationnelle**
+  Deux jeux de données de cytométrie en flux (.fcs) accompagnés d’annotations cellule-par-cellule (.csv), utilisés dans l’étude *Computational measurable residual disease assessment in acute myeloid leukemia using mixture models* (Mocking T.R. et al.).
+  Contenu :
+
+  * **BLAST110** — 110 échantillons (20 moelles normales, 30 AML diagnostic, 90 AML suivi) avec gating manuel standardisé (hiérarchie CD45dim/CD34+/CD117+ pour identifier les blastes).
+  * **LAIP29** — 29 patients AML (diagnostic + suivi) avec annotation experte des populations leucémiques **LAIP+**. Inclut un dossier `/annotations/` décrivant et quantifiant chaque LAIP.
+    Structure :
+  * `/FCS/` : fichiers bruts (.fcs)
+  * `/labels/` : annotations cellule-par-cellule (via `event_ID`)
+  * `/annotations/` (LAIP29 uniquement) : caractérisation des populations LAIP
+    Utilisation : benchmark riche pour l’évaluation d’algorithmes MRD (gating, clustering, mixture models, classification).
+    *Référence* : Mocking T.R., Kelder A., Reuvekamp T., et al. (2024–2025).
+    [Zenodo](https://zenodo.org/records/11046402) · [Scripts d’analyse](https://github.com/AUMC-HEMA/cMRD-manuscript)
+
+---
+
+
 ## Tutoriels & notebooks
 - *(guides pas-à-pas, cours, ateliers)*
 
